@@ -1,9 +1,11 @@
-### C read file into array
+# My standard C repo
 
-This code show how to read a file into an array and prints it out.  
+## Arrays
 
-Useful links:  
-[More C Example Code](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)  
+- How to read a file into an array and prints it out.  
+- How to read a file into an array from arguments and prints it out.
+- How to use 1D and 2D arrays in functions.
 
-[More SDL-C Example Code](https://gist.github.com/Acry/baa861b8e370c6eddbb18519c487d9d8)  
-
+## Useful links:  
+[More of my C example code](https://acry.github.io/c.html)  
+[My C gist](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)  
